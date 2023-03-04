@@ -37,4 +37,5 @@ console.log(difbikes)
 console.log(difbikes.split(" "))
 
 console.log("hello world")
+console.log("akhil")
 
