@@ -36,5 +36,5 @@ let difbikes = "Yamaha kawasaki Honda BMW RoyalEnfield"
 console.log(difbikes)
 console.log(difbikes.split(" "))
 
-
+console.log("hello world")
 
